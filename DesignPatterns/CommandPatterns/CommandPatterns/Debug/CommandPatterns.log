@@ -1,7 +1,6 @@
 ﻿  CommandPatterns.cpp
+c:\users\zande\desktop\y4\games engineering\ge_designpatterns\designpatterns\commandpatterns\commandpatterns\inputhandler.h(44): error C2018: unknown character '0x40'
   Generating Code...
-  Skipping... (no relevant changes detected)
+  Compiling...
   CommandMacro.cpp
-  CommandPatterns.vcxproj -> C:\Users\zande\Desktop\Y4\Games Engineering\GE_DesignPatterns\DesignPatterns\CommandPatterns\CommandPatterns\Debug\CommandPatterns.exe
-  CommandPatterns.vcxproj -> C:\Users\zande\Desktop\Y4\Games Engineering\GE_DesignPatterns\DesignPatterns\CommandPatterns\CommandPatterns\Debug\CommandPatterns.pdb (Full PDB)
-          1 file(s) copied.
+  Generating Code...

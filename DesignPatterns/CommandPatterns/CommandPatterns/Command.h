@@ -13,8 +13,8 @@ class JumpCommand : public Command
 
 public:
 	 void execute()
-	{
-		std::cout << "Jumping" << std::endl;
+	{ 
+		 std::cout << "Jumping" << std::endl;
 	}
 };
 class CrouchCommand : public Command
